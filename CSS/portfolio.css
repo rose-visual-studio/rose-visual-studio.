@@ -1,0 +1,73 @@
+@media only screen and(max-width:1950px)and(min-width:300px){}
+
+body{
+   background-color:#FFFF00;
+}
+
+    nav{
+         display:inline-block;
+         padding:10px;
+         margin-top: 10px;
+         margin-bottom: 10px;
+         margin-left: 10px;
+         margin-right: 10px;
+         border-radius: 25%;
+         border-color: black;
+         background-color: blue;
+         color:white;
+         font-family: Arial;
+         text-align: center;
+
+    }
+
+
+      button{
+         color:black;
+         font-weight:bold;
+      }
+      button:hover{
+         background-color: green;
+         opacity:0.8;
+         transition: 0.15s;
+         cursor: pointer;
+      }
+
+      button:active{
+         background-color: #FFFF00;
+         opacity:1;
+         transition:0.15s;
+      }
+
+   h2{
+      font-family:Arial, Helvetica, sans-serif;
+      text-align: center;
+      text-decoration: solid;
+   }
+
+   .qoute{
+      font-family: Arial, Helvetica, sans-serif;
+      font-weight: bold;
+      text-align: center;
+      text-decoration: underline;
+
+   }
+
+   p{
+      font-family: Arial, Helvetica, sans-serif;
+      padding:15px;   
+   }
+
+   aside{
+      display: flex;
+      float:right;
+   
+   }
+
+   footer{
+      display:block;
+      font-family: Arial, Helvetica, sans-serif;
+      font-weight: bolder;
+      background-color: #1E90FF;
+   }
+
+

@@ -1,0 +1,15 @@
+@media only screen and(max-width:1920px)and(min-width:300px){}
+h1{
+    text-align: center;
+    text-decoration: underline;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+body{
+    background-color: rgb(0,191,255);
+}
+button{
+    width:10%;
+    background-color: gold;
+}
+
